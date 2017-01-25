@@ -9,3 +9,4 @@
 
 ### [Google Youtube 8M](https://research.google.com/youtube8m/)
 ### [Landmark dataset](http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+landmark)
+### [Dataset Collections from Kevin Chai](http://kevinchai.net/datasets)
