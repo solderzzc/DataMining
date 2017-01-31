@@ -10,3 +10,5 @@
 ## [Install Docker](https://docs.docker.com/engine/installation/linux/ubuntu/)  
 
 ## [Install Nvidia Docker](https://github.com/NVIDIA/nvidia-docker#quick-start)  
+
+## [Run Tensorflow Docker](https://www.tensorflow.org/get_started/os_setup#docker_installation)  
