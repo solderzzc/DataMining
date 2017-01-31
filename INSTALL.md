@@ -8,3 +8,5 @@
 `sudo apt-get install cuda `  
 
 ## [Install Docker](https://docs.docker.com/engine/installation/linux/ubuntu/)  
+
+## [Install Nvidia Docker](https://github.com/NVIDIA/nvidia-docker#quick-start)  
